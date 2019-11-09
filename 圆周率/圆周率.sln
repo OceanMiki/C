@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "圆周率", "圆周率\圆周率.vcxproj", "{C389CE3F-8726-4A29-8D5F-2834CC5C4F56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C389CE3F-8726-4A29-8D5F-2834CC5C4F56}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C389CE3F-8726-4A29-8D5F-2834CC5C4F56}.Debug|Win32.Build.0 = Debug|Win32
+		{C389CE3F-8726-4A29-8D5F-2834CC5C4F56}.Release|Win32.ActiveCfg = Release|Win32
+		{C389CE3F-8726-4A29-8D5F-2834CC5C4F56}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

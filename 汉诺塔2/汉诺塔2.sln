@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "汉诺塔2", "汉诺塔2\汉诺塔2.vcxproj", "{74F2EEF1-F2DC-4007-81E1-00EB4A9AE871}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74F2EEF1-F2DC-4007-81E1-00EB4A9AE871}.Debug|Win32.ActiveCfg = Debug|Win32
+		{74F2EEF1-F2DC-4007-81E1-00EB4A9AE871}.Debug|Win32.Build.0 = Debug|Win32
+		{74F2EEF1-F2DC-4007-81E1-00EB4A9AE871}.Release|Win32.ActiveCfg = Release|Win32
+		{74F2EEF1-F2DC-4007-81E1-00EB4A9AE871}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

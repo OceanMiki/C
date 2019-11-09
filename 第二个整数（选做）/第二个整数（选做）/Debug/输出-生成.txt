@@ -1,0 +1,19 @@
+﻿1>------ 已启动生成: 项目: 第二个整数（选做）, 配置: Debug Win32 ------
+1>生成启动时间为 2018/9/5 22:50:22。
+1>InitializeBuildStatus:
+1>  正在创建“Debug\第二个整数（选做）.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+1>ClCompile:
+1>  第二个整数（选做）.cpp
+1>d:\chy.cpp\第二个整数（选做）\第二个整数（选做）\第二个整数（选做）.cpp(5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          d:\programflies\vc\include\stdio.h(304) : 参见“scanf”的声明
+1>Link:
+1>  LINK : 没有找到 D:\CHY.cpp\第二个整数（选做）\Debug\第二个整数（选做）.exe 或上一个增量链接没有生成它；正在执行完全链接
+1>  第二个整数（选做）.vcxproj -> D:\CHY.cpp\第二个整数（选做）\Debug\第二个整数（选做）.exe
+1>FinalizeBuildStatus:
+1>  正在删除文件“Debug\第二个整数（选做）.unsuccessfulbuild”。
+1>  正在对“Debug\第二个整数（选做）.lastbuildstate”执行 Touch 任务。
+1>
+1>生成成功。
+1>
+1>已用时间 00:00:00.95
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========

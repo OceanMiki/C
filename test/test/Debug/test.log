@@ -1,0 +1,15 @@
+﻿生成启动时间为 2018/9/22 11:11:04。
+     1>项目“D:\CHY.cpp\test\test\test.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\test.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\ProgramFlies\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>d:\chy.cpp\test\test\test.cpp(5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\programflies\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\chy.cpp\test\test\test.cpp(13): fatal error C1075: 与左侧的 大括号“{”(位于“d:\chy.cpp\test\test\test.cpp(3)”)匹配之前遇到文件结束
+     1>已完成生成项目“D:\CHY.cpp\test\test\test.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.18

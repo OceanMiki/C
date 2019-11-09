@@ -1,0 +1,16 @@
+﻿1>------ 已启动生成: 项目: 表达式计算：1+2, 配置: Debug Win32 ------
+1>生成启动时间为 2018/9/6 19:55:39。
+1>InitializeBuildStatus:
+1>  正在对“Debug\表达式计算：1+2.unsuccessfulbuild”执行 Touch 任务。
+1>ClCompile:
+1>  表达式计算1加2.cpp
+1>Link:
+1>  表达式计算：1+2.vcxproj -> D:\CHY.cpp\表达式计算：1+2\Debug\表达式计算：1+2.exe
+1>FinalizeBuildStatus:
+1>  正在删除文件“Debug\表达式计算：1+2.unsuccessfulbuild”。
+1>  正在对“Debug\表达式计算：1+2.lastbuildstate”执行 Touch 任务。
+1>
+1>生成成功。
+1>
+1>已用时间 00:00:00.68
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========

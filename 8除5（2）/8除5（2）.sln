@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8除5（2）", "8除5（2）\8除5（2）.vcxproj", "{755ECA9B-C3A3-4D64-A1AC-6491309DB051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{755ECA9B-C3A3-4D64-A1AC-6491309DB051}.Debug|Win32.ActiveCfg = Debug|Win32
+		{755ECA9B-C3A3-4D64-A1AC-6491309DB051}.Debug|Win32.Build.0 = Debug|Win32
+		{755ECA9B-C3A3-4D64-A1AC-6491309DB051}.Release|Win32.ActiveCfg = Release|Win32
+		{755ECA9B-C3A3-4D64-A1AC-6491309DB051}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

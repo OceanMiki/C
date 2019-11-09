@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+	int m, n,a,b;
+	scanf("%d %d",&m,&n);
+	a=(4*m-n)/2;
+	b=(n-2*m)/2;
+	if (a>=0,b>=0)
+	printf("%d %d\n",a, b);
+	else
+		printf("No answer\n");
+	return 0;
+}

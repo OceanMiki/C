@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "e的近似值", "e的近似值\e的近似值.vcxproj", "{A1558AA6-1F72-4853-A252-EA4583090390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1558AA6-1F72-4853-A252-EA4583090390}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A1558AA6-1F72-4853-A252-EA4583090390}.Debug|Win32.Build.0 = Debug|Win32
+		{A1558AA6-1F72-4853-A252-EA4583090390}.Release|Win32.ActiveCfg = Release|Win32
+		{A1558AA6-1F72-4853-A252-EA4583090390}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1 @@
+#include<stdio.h>void del(char *p,char ch) {	char *q = p;	for( ; *p != '\0'; p++)		if( *p != ch )  		{ *q = *p; q++;}		*q = '\0';     }int main(void) {	char str[80] , *pt ,ch;	printf("请输入一个字符串:\n");	gets(str);     	pt = str;	printf("请输入要被删除的字符:\n");	ch = getchar();      	del(pt,ch);           	printf("新的字符串为:\n%s\n",str);	return 0;}

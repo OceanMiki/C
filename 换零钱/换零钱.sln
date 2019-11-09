@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "换零钱", "换零钱\换零钱.vcxproj", "{ECF27C9C-701A-489F-815D-3D3BCF68F880}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECF27C9C-701A-489F-815D-3D3BCF68F880}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ECF27C9C-701A-489F-815D-3D3BCF68F880}.Debug|Win32.Build.0 = Debug|Win32
+		{ECF27C9C-701A-489F-815D-3D3BCF68F880}.Release|Win32.ActiveCfg = Release|Win32
+		{ECF27C9C-701A-489F-815D-3D3BCF68F880}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

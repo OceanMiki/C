@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "三位数反转", "三位数反转\三位数反转.vcxproj", "{ADF96010-9522-4535-8F98-BAA66E69848E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADF96010-9522-4535-8F98-BAA66E69848E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ADF96010-9522-4535-8F98-BAA66E69848E}.Debug|Win32.Build.0 = Debug|Win32
+		{ADF96010-9522-4535-8F98-BAA66E69848E}.Release|Win32.ActiveCfg = Release|Win32
+		{ADF96010-9522-4535-8F98-BAA66E69848E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

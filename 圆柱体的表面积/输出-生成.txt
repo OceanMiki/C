@@ -1,0 +1,21 @@
+﻿1>------ 已启动生成: 项目: 圆柱体的表面积, 配置: Debug Win32 ------
+1>生成启动时间为 2018/9/7 8:28:29。
+1>InitializeBuildStatus:
+1>  正在对“Debug\圆柱体的表面积.unsuccessfulbuild”执行 Touch 任务。
+1>ClCompile:
+1>  圆柱体的表面积.cpp
+1>d:\chy.cpp\圆柱体的表面积\圆柱体的表面积\圆柱体的表面积.cpp(5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          d:\programflies\vc\include\stdio.h(304) : 参见“scanf”的声明
+1>d:\chy.cpp\圆柱体的表面积\圆柱体的表面积\圆柱体的表面积.cpp(6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          d:\programflies\vc\include\stdio.h(304) : 参见“scanf”的声明
+1>d:\chy.cpp\圆柱体的表面积\圆柱体的表面积\圆柱体的表面积.cpp(4): warning C4101: “area”: 未引用的局部变量
+1>Link:
+1>  圆柱体的表面积.vcxproj -> D:\CHY.cpp\圆柱体的表面积\Debug\圆柱体的表面积.exe
+1>FinalizeBuildStatus:
+1>  正在删除文件“Debug\圆柱体的表面积.unsuccessfulbuild”。
+1>  正在对“Debug\圆柱体的表面积.lastbuildstate”执行 Touch 任务。
+1>
+1>生成成功。
+1>
+1>已用时间 00:00:00.90
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========

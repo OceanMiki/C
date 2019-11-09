@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "猴子选大王（选做）", "猴子选大王（选做）\猴子选大王（选做）.vcxproj", "{1D05A01F-5297-4B04-8F53-0FB703FDB410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D05A01F-5297-4B04-8F53-0FB703FDB410}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1D05A01F-5297-4B04-8F53-0FB703FDB410}.Debug|Win32.Build.0 = Debug|Win32
+		{1D05A01F-5297-4B04-8F53-0FB703FDB410}.Release|Win32.ActiveCfg = Release|Win32
+		{1D05A01F-5297-4B04-8F53-0FB703FDB410}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

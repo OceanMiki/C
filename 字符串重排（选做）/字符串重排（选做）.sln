@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字符串重排（选做）", "字符串重排（选做）\字符串重排（选做）.vcxproj", "{9677C04C-72E9-4DB1-9D56-F6E57439294E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9677C04C-72E9-4DB1-9D56-F6E57439294E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9677C04C-72E9-4DB1-9D56-F6E57439294E}.Debug|Win32.Build.0 = Debug|Win32
+		{9677C04C-72E9-4DB1-9D56-F6E57439294E}.Release|Win32.ActiveCfg = Release|Win32
+		{9677C04C-72E9-4DB1-9D56-F6E57439294E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

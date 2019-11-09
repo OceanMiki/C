@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "分数序列和（选做）", "分数序列和（选做）\分数序列和（选做）.vcxproj", "{C33C6051-66AF-41FD-B9BA-0E8D183B6002}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C33C6051-66AF-41FD-B9BA-0E8D183B6002}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C33C6051-66AF-41FD-B9BA-0E8D183B6002}.Debug|Win32.Build.0 = Debug|Win32
+		{C33C6051-66AF-41FD-B9BA-0E8D183B6002}.Release|Win32.ActiveCfg = Release|Win32
+		{C33C6051-66AF-41FD-B9BA-0E8D183B6002}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

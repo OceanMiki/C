@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Are you OK", "Are you OK\Are you OK.vcxproj", "{92560E67-0E94-411F-BB9B-DD2A67172513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92560E67-0E94-411F-BB9B-DD2A67172513}.Debug|Win32.ActiveCfg = Debug|Win32
+		{92560E67-0E94-411F-BB9B-DD2A67172513}.Debug|Win32.Build.0 = Debug|Win32
+		{92560E67-0E94-411F-BB9B-DD2A67172513}.Release|Win32.ActiveCfg = Release|Win32
+		{92560E67-0E94-411F-BB9B-DD2A67172513}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

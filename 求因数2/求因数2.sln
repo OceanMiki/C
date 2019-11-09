@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "求因数2", "求因数2\求因数2.vcxproj", "{F466091B-6D8F-41CC-87E7-C34A2CF589D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F466091B-6D8F-41CC-87E7-C34A2CF589D4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F466091B-6D8F-41CC-87E7-C34A2CF589D4}.Debug|Win32.Build.0 = Debug|Win32
+		{F466091B-6D8F-41CC-87E7-C34A2CF589D4}.Release|Win32.ActiveCfg = Release|Win32
+		{F466091B-6D8F-41CC-87E7-C34A2CF589D4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
